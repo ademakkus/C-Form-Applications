@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\DialogResultApp\DialogResultApp\bin\Debug\DialogResultApp.exe.config
+C:\Users\mypc\source\repos\DialogResultApp\DialogResultApp\bin\Debug\DialogResultApp.exe
+C:\Users\mypc\source\repos\DialogResultApp\DialogResultApp\bin\Debug\DialogResultApp.pdb
+C:\Users\mypc\source\repos\DialogResultApp\DialogResultApp\obj\Debug\DialogResultApp.Form1.resources
+C:\Users\mypc\source\repos\DialogResultApp\DialogResultApp\obj\Debug\DialogResultApp.Form2.resources
+C:\Users\mypc\source\repos\DialogResultApp\DialogResultApp\obj\Debug\DialogResultApp.Properties.Resources.resources
+C:\Users\mypc\source\repos\DialogResultApp\DialogResultApp\obj\Debug\DialogResultApp.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\DialogResultApp\DialogResultApp\obj\Debug\DialogResultApp.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\DialogResultApp\DialogResultApp\obj\Debug\DialogResultApp.exe
+C:\Users\mypc\source\repos\DialogResultApp\DialogResultApp\obj\Debug\DialogResultApp.pdb

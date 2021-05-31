@@ -1,0 +1,11 @@
+C:\Users\mypc\source\repos\TextBoxCustomDataSorurce\TextBoxCustomDataSorurce\bin\Debug\TextBoxCustomDataSorurce.exe.config
+C:\Users\mypc\source\repos\TextBoxCustomDataSorurce\TextBoxCustomDataSorurce\bin\Debug\TextBoxCustomDataSorurce.exe
+C:\Users\mypc\source\repos\TextBoxCustomDataSorurce\TextBoxCustomDataSorurce\bin\Debug\TextBoxCustomDataSorurce.pdb
+C:\Users\mypc\source\repos\TextBoxCustomDataSorurce\TextBoxCustomDataSorurce\obj\Debug\TextBoxCustomDataSorurce.Form1.resources
+C:\Users\mypc\source\repos\TextBoxCustomDataSorurce\TextBoxCustomDataSorurce\obj\Debug\TextBoxCustomDataSorurce.Properties.Resources.resources
+C:\Users\mypc\source\repos\TextBoxCustomDataSorurce\TextBoxCustomDataSorurce\obj\Debug\TextBoxCustomDataSorurce.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\TextBoxCustomDataSorurce\TextBoxCustomDataSorurce\obj\Debug\TextBoxCustomDataSorurce.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\TextBoxCustomDataSorurce\TextBoxCustomDataSorurce\obj\Debug\TextBoxCustomDataSorurce.exe
+C:\Users\mypc\source\repos\TextBoxCustomDataSorurce\TextBoxCustomDataSorurce\obj\Debug\TextBoxCustomDataSorurce.pdb
+C:\Users\mypc\source\repos\TextBoxCustomDataSorurce\TextBoxCustomDataSorurce\bin\Debug\App_Data\hasta_bilgisi.accdb
+C:\Users\mypc\source\repos\TextBoxCustomDataSorurce\TextBoxCustomDataSorurce\obj\Debug\TextBoxCustomDataSorurce.csproj.AssemblyReference.cache
