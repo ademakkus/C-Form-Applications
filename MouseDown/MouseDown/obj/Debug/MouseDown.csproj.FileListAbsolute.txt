@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\MouseDown\MouseDown\bin\Debug\MouseDown.exe.config
+C:\Users\mypc\source\repos\MouseDown\MouseDown\bin\Debug\MouseDown.exe
+C:\Users\mypc\source\repos\MouseDown\MouseDown\bin\Debug\MouseDown.pdb
+C:\Users\mypc\source\repos\MouseDown\MouseDown\obj\Debug\MouseDown.csproj.AssemblyReference.cache
+C:\Users\mypc\source\repos\MouseDown\MouseDown\obj\Debug\MouseDown.Form1.resources
+C:\Users\mypc\source\repos\MouseDown\MouseDown\obj\Debug\MouseDown.Properties.Resources.resources
+C:\Users\mypc\source\repos\MouseDown\MouseDown\obj\Debug\MouseDown.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\MouseDown\MouseDown\obj\Debug\MouseDown.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\MouseDown\MouseDown\obj\Debug\MouseDown.exe
+C:\Users\mypc\source\repos\MouseDown\MouseDown\obj\Debug\MouseDown.pdb

@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\RegistryOrnek\RegistryOrnek\bin\Debug\RegistryOrnek.exe.config
+C:\Users\mypc\source\repos\RegistryOrnek\RegistryOrnek\bin\Debug\RegistryOrnek.exe
+C:\Users\mypc\source\repos\RegistryOrnek\RegistryOrnek\bin\Debug\RegistryOrnek.pdb
+C:\Users\mypc\source\repos\RegistryOrnek\RegistryOrnek\obj\Debug\RegistryOrnek.csproj.AssemblyReference.cache
+C:\Users\mypc\source\repos\RegistryOrnek\RegistryOrnek\obj\Debug\RegistryOrnek.Form1.resources
+C:\Users\mypc\source\repos\RegistryOrnek\RegistryOrnek\obj\Debug\RegistryOrnek.Properties.Resources.resources
+C:\Users\mypc\source\repos\RegistryOrnek\RegistryOrnek\obj\Debug\RegistryOrnek.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\RegistryOrnek\RegistryOrnek\obj\Debug\RegistryOrnek.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\RegistryOrnek\RegistryOrnek\obj\Debug\RegistryOrnek.exe
+C:\Users\mypc\source\repos\RegistryOrnek\RegistryOrnek\obj\Debug\RegistryOrnek.pdb

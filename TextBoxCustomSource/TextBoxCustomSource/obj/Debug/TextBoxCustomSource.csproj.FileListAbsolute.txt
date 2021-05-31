@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\TextBoxCustomSource\TextBoxCustomSource\bin\Debug\TextBoxCustomSource.exe.config
+C:\Users\mypc\source\repos\TextBoxCustomSource\TextBoxCustomSource\bin\Debug\TextBoxCustomSource.exe
+C:\Users\mypc\source\repos\TextBoxCustomSource\TextBoxCustomSource\bin\Debug\TextBoxCustomSource.pdb
+C:\Users\mypc\source\repos\TextBoxCustomSource\TextBoxCustomSource\obj\Debug\TextBoxCustomSource.csproj.AssemblyReference.cache
+C:\Users\mypc\source\repos\TextBoxCustomSource\TextBoxCustomSource\obj\Debug\TextBoxCustomSource.Form1.resources
+C:\Users\mypc\source\repos\TextBoxCustomSource\TextBoxCustomSource\obj\Debug\TextBoxCustomSource.Properties.Resources.resources
+C:\Users\mypc\source\repos\TextBoxCustomSource\TextBoxCustomSource\obj\Debug\TextBoxCustomSource.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\TextBoxCustomSource\TextBoxCustomSource\obj\Debug\TextBoxCustomSource.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\TextBoxCustomSource\TextBoxCustomSource\obj\Debug\TextBoxCustomSource.exe
+C:\Users\mypc\source\repos\TextBoxCustomSource\TextBoxCustomSource\obj\Debug\TextBoxCustomSource.pdb
