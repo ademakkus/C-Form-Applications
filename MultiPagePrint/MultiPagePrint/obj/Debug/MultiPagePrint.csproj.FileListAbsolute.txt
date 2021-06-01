@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\MultiPagePrint\MultiPagePrint\bin\Debug\MultiPagePrint.exe.config
+C:\Users\mypc\source\repos\MultiPagePrint\MultiPagePrint\bin\Debug\MultiPagePrint.exe
+C:\Users\mypc\source\repos\MultiPagePrint\MultiPagePrint\bin\Debug\MultiPagePrint.pdb
+C:\Users\mypc\source\repos\MultiPagePrint\MultiPagePrint\obj\Debug\MultiPagePrint.csproj.AssemblyReference.cache
+C:\Users\mypc\source\repos\MultiPagePrint\MultiPagePrint\obj\Debug\MultiPagePrint.Form1.resources
+C:\Users\mypc\source\repos\MultiPagePrint\MultiPagePrint\obj\Debug\MultiPagePrint.Properties.Resources.resources
+C:\Users\mypc\source\repos\MultiPagePrint\MultiPagePrint\obj\Debug\MultiPagePrint.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\MultiPagePrint\MultiPagePrint\obj\Debug\MultiPagePrint.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\MultiPagePrint\MultiPagePrint\obj\Debug\MultiPagePrint.exe
+C:\Users\mypc\source\repos\MultiPagePrint\MultiPagePrint\obj\Debug\MultiPagePrint.pdb

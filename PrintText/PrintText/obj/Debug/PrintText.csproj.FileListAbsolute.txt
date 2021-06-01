@@ -1,0 +1,9 @@
+C:\Users\mypc\source\repos\PrintText\PrintText\bin\Debug\PrintText.exe.config
+C:\Users\mypc\source\repos\PrintText\PrintText\bin\Debug\PrintText.exe
+C:\Users\mypc\source\repos\PrintText\PrintText\bin\Debug\PrintText.pdb
+C:\Users\mypc\source\repos\PrintText\PrintText\obj\Debug\PrintText.Form1.resources
+C:\Users\mypc\source\repos\PrintText\PrintText\obj\Debug\PrintText.Properties.Resources.resources
+C:\Users\mypc\source\repos\PrintText\PrintText\obj\Debug\PrintText.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\PrintText\PrintText\obj\Debug\PrintText.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\PrintText\PrintText\obj\Debug\PrintText.exe
+C:\Users\mypc\source\repos\PrintText\PrintText\obj\Debug\PrintText.pdb

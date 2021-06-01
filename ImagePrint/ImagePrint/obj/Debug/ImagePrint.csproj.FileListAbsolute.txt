@@ -1,0 +1,9 @@
+C:\Users\mypc\source\repos\ImagePrint\ImagePrint\bin\Debug\ImagePrint.exe.config
+C:\Users\mypc\source\repos\ImagePrint\ImagePrint\bin\Debug\ImagePrint.exe
+C:\Users\mypc\source\repos\ImagePrint\ImagePrint\bin\Debug\ImagePrint.pdb
+C:\Users\mypc\source\repos\ImagePrint\ImagePrint\obj\Debug\ImagePrint.Form1.resources
+C:\Users\mypc\source\repos\ImagePrint\ImagePrint\obj\Debug\ImagePrint.Properties.Resources.resources
+C:\Users\mypc\source\repos\ImagePrint\ImagePrint\obj\Debug\ImagePrint.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\ImagePrint\ImagePrint\obj\Debug\ImagePrint.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ImagePrint\ImagePrint\obj\Debug\ImagePrint.exe
+C:\Users\mypc\source\repos\ImagePrint\ImagePrint\obj\Debug\ImagePrint.pdb
