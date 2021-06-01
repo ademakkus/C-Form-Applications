@@ -1,0 +1,9 @@
+C:\Users\mypc\source\repos\PrintFile\PrintFile\bin\Debug\PrintFile.exe.config
+C:\Users\mypc\source\repos\PrintFile\PrintFile\bin\Debug\PrintFile.exe
+C:\Users\mypc\source\repos\PrintFile\PrintFile\bin\Debug\PrintFile.pdb
+C:\Users\mypc\source\repos\PrintFile\PrintFile\obj\Debug\PrintFile.Form1.resources
+C:\Users\mypc\source\repos\PrintFile\PrintFile\obj\Debug\PrintFile.Properties.Resources.resources
+C:\Users\mypc\source\repos\PrintFile\PrintFile\obj\Debug\PrintFile.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\PrintFile\PrintFile\obj\Debug\PrintFile.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\PrintFile\PrintFile\obj\Debug\PrintFile.exe
+C:\Users\mypc\source\repos\PrintFile\PrintFile\obj\Debug\PrintFile.pdb
