@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\PrintApp\PrintApp\bin\Debug\PrintApp.exe.config
+C:\Users\mypc\source\repos\PrintApp\PrintApp\bin\Debug\PrintApp.exe
+C:\Users\mypc\source\repos\PrintApp\PrintApp\bin\Debug\PrintApp.pdb
+C:\Users\mypc\source\repos\PrintApp\PrintApp\obj\Debug\PrintApp.csproj.AssemblyReference.cache
+C:\Users\mypc\source\repos\PrintApp\PrintApp\obj\Debug\PrintApp.Form1.resources
+C:\Users\mypc\source\repos\PrintApp\PrintApp\obj\Debug\PrintApp.Properties.Resources.resources
+C:\Users\mypc\source\repos\PrintApp\PrintApp\obj\Debug\PrintApp.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\PrintApp\PrintApp\obj\Debug\PrintApp.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\PrintApp\PrintApp\obj\Debug\PrintApp.exe
+C:\Users\mypc\source\repos\PrintApp\PrintApp\obj\Debug\PrintApp.pdb

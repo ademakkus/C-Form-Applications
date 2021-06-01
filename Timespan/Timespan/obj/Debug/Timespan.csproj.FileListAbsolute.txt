@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\Timespan\Timespan\bin\Debug\Timespan.exe.config
+C:\Users\mypc\source\repos\Timespan\Timespan\bin\Debug\Timespan.exe
+C:\Users\mypc\source\repos\Timespan\Timespan\bin\Debug\Timespan.pdb
+C:\Users\mypc\source\repos\Timespan\Timespan\obj\Debug\Timespan.csproj.AssemblyReference.cache
+C:\Users\mypc\source\repos\Timespan\Timespan\obj\Debug\Timespan.Form1.resources
+C:\Users\mypc\source\repos\Timespan\Timespan\obj\Debug\Timespan.Properties.Resources.resources
+C:\Users\mypc\source\repos\Timespan\Timespan\obj\Debug\Timespan.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\Timespan\Timespan\obj\Debug\Timespan.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\Timespan\Timespan\obj\Debug\Timespan.exe
+C:\Users\mypc\source\repos\Timespan\Timespan\obj\Debug\Timespan.pdb
