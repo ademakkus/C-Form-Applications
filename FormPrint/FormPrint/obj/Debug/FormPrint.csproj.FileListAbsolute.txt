@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\FormPrint\FormPrint\bin\Debug\FormPrint.exe.config
+C:\Users\mypc\source\repos\FormPrint\FormPrint\bin\Debug\FormPrint.exe
+C:\Users\mypc\source\repos\FormPrint\FormPrint\bin\Debug\FormPrint.pdb
+C:\Users\mypc\source\repos\FormPrint\FormPrint\obj\Debug\FormPrint.csproj.AssemblyReference.cache
+C:\Users\mypc\source\repos\FormPrint\FormPrint\obj\Debug\FormPrint.Form1.resources
+C:\Users\mypc\source\repos\FormPrint\FormPrint\obj\Debug\FormPrint.Properties.Resources.resources
+C:\Users\mypc\source\repos\FormPrint\FormPrint\obj\Debug\FormPrint.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\FormPrint\FormPrint\obj\Debug\FormPrint.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\FormPrint\FormPrint\obj\Debug\FormPrint.exe
+C:\Users\mypc\source\repos\FormPrint\FormPrint\obj\Debug\FormPrint.pdb

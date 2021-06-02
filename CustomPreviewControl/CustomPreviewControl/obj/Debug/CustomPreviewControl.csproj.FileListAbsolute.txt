@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\CustomPreviewControl\CustomPreviewControl\bin\Debug\CustomPreviewControl.exe.config
+C:\Users\mypc\source\repos\CustomPreviewControl\CustomPreviewControl\bin\Debug\CustomPreviewControl.exe
+C:\Users\mypc\source\repos\CustomPreviewControl\CustomPreviewControl\bin\Debug\CustomPreviewControl.pdb
+C:\Users\mypc\source\repos\CustomPreviewControl\CustomPreviewControl\obj\Debug\CustomPreviewControl.csproj.AssemblyReference.cache
+C:\Users\mypc\source\repos\CustomPreviewControl\CustomPreviewControl\obj\Debug\CustomPreviewControl.Form1.resources
+C:\Users\mypc\source\repos\CustomPreviewControl\CustomPreviewControl\obj\Debug\CustomPreviewControl.Properties.Resources.resources
+C:\Users\mypc\source\repos\CustomPreviewControl\CustomPreviewControl\obj\Debug\CustomPreviewControl.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\CustomPreviewControl\CustomPreviewControl\obj\Debug\CustomPreviewControl.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\CustomPreviewControl\CustomPreviewControl\obj\Debug\CustomPreviewControl.exe
+C:\Users\mypc\source\repos\CustomPreviewControl\CustomPreviewControl\obj\Debug\CustomPreviewControl.pdb
