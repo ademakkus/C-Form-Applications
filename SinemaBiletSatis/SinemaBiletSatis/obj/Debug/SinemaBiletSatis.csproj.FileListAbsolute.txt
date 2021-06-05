@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\SinemaBiletSatis.exe.config
+C:\Users\mypc\source\repos\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\SinemaBiletSatis.exe
+C:\Users\mypc\source\repos\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\SinemaBiletSatis.pdb
+C:\Users\mypc\source\repos\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.csproj.AssemblyReference.cache
+C:\Users\mypc\source\repos\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.Form1.resources
+C:\Users\mypc\source\repos\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.Properties.Resources.resources
+C:\Users\mypc\source\repos\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.exe
+C:\Users\mypc\source\repos\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.pdb
