@@ -1,0 +1,11 @@
+C:\Users\mypc\source\repos\MDISample_2\MDISample_2\bin\Debug\MDISample_2.exe.config
+C:\Users\mypc\source\repos\MDISample_2\MDISample_2\bin\Debug\MDISample_2.exe
+C:\Users\mypc\source\repos\MDISample_2\MDISample_2\bin\Debug\MDISample_2.pdb
+C:\Users\mypc\source\repos\MDISample_2\MDISample_2\obj\Debug\MDISample_2.frmMain.resources
+C:\Users\mypc\source\repos\MDISample_2\MDISample_2\obj\Debug\MDISample_2.Properties.Resources.resources
+C:\Users\mypc\source\repos\MDISample_2\MDISample_2\obj\Debug\MDISample_2.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\MDISample_2\MDISample_2\obj\Debug\MDISample_2.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\MDISample_2\MDISample_2\obj\Debug\MDISample_2.exe
+C:\Users\mypc\source\repos\MDISample_2\MDISample_2\obj\Debug\MDISample_2.pdb
+C:\Users\mypc\source\repos\MDISample_2\MDISample_2\obj\Debug\MDISample_2.frmCustomer.resources
+C:\Users\mypc\source\repos\MDISample_2\MDISample_2\obj\Debug\MDISample_2.frmLogin.resources
