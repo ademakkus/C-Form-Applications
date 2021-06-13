@@ -1,0 +1,9 @@
+C:\Users\mypc\source\repos\SentencesCount\SentencesCount\obj\Debug\SentencesCount.Form1.resources
+C:\Users\mypc\source\repos\SentencesCount\SentencesCount\obj\Debug\SentencesCount.Properties.Resources.resources
+C:\Users\mypc\source\repos\SentencesCount\SentencesCount\obj\Debug\SentencesCount.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\SentencesCount\SentencesCount\obj\Debug\SentencesCount.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\SentencesCount\SentencesCount\bin\Debug\SentencesCount.exe.config
+C:\Users\mypc\source\repos\SentencesCount\SentencesCount\bin\Debug\SentencesCount.exe
+C:\Users\mypc\source\repos\SentencesCount\SentencesCount\bin\Debug\SentencesCount.pdb
+C:\Users\mypc\source\repos\SentencesCount\SentencesCount\obj\Debug\SentencesCount.exe
+C:\Users\mypc\source\repos\SentencesCount\SentencesCount\obj\Debug\SentencesCount.pdb
