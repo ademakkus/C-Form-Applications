@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\DragandDrop\DragandDrop\bin\Debug\DragandDrop.exe.config
+C:\Users\mypc\source\repos\DragandDrop\DragandDrop\bin\Debug\DragandDrop.exe
+C:\Users\mypc\source\repos\DragandDrop\DragandDrop\bin\Debug\DragandDrop.pdb
+C:\Users\mypc\source\repos\DragandDrop\DragandDrop\obj\Debug\DragandDrop.csproj.AssemblyReference.cache
+C:\Users\mypc\source\repos\DragandDrop\DragandDrop\obj\Debug\DragandDrop.Form1.resources
+C:\Users\mypc\source\repos\DragandDrop\DragandDrop\obj\Debug\DragandDrop.Properties.Resources.resources
+C:\Users\mypc\source\repos\DragandDrop\DragandDrop\obj\Debug\DragandDrop.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\DragandDrop\DragandDrop\obj\Debug\DragandDrop.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\DragandDrop\DragandDrop\obj\Debug\DragandDrop.exe
+C:\Users\mypc\source\repos\DragandDrop\DragandDrop\obj\Debug\DragandDrop.pdb
