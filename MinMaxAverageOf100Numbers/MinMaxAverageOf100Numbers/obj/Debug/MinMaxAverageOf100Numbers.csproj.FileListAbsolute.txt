@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\MinMaxAverageOf100Numbers\MinMaxAverageOf100Numbers\bin\Debug\MinMaxAverageOf100Numbers.exe.config
+C:\Users\mypc\source\repos\MinMaxAverageOf100Numbers\MinMaxAverageOf100Numbers\bin\Debug\MinMaxAverageOf100Numbers.exe
+C:\Users\mypc\source\repos\MinMaxAverageOf100Numbers\MinMaxAverageOf100Numbers\bin\Debug\MinMaxAverageOf100Numbers.pdb
+C:\Users\mypc\source\repos\MinMaxAverageOf100Numbers\MinMaxAverageOf100Numbers\obj\Debug\MinMaxAverageOf100Numbers.csproj.AssemblyReference.cache
+C:\Users\mypc\source\repos\MinMaxAverageOf100Numbers\MinMaxAverageOf100Numbers\obj\Debug\MinMaxAverageOf100Numbers.Form1.resources
+C:\Users\mypc\source\repos\MinMaxAverageOf100Numbers\MinMaxAverageOf100Numbers\obj\Debug\MinMaxAverageOf100Numbers.Properties.Resources.resources
+C:\Users\mypc\source\repos\MinMaxAverageOf100Numbers\MinMaxAverageOf100Numbers\obj\Debug\MinMaxAverageOf100Numbers.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\MinMaxAverageOf100Numbers\MinMaxAverageOf100Numbers\obj\Debug\MinMaxAverageOf100Numbers.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\MinMaxAverageOf100Numbers\MinMaxAverageOf100Numbers\obj\Debug\MinMaxAverageOf100Numbers.exe
+C:\Users\mypc\source\repos\MinMaxAverageOf100Numbers\MinMaxAverageOf100Numbers\obj\Debug\MinMaxAverageOf100Numbers.pdb
