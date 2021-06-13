@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\CombinationAndPermutationCOunt\CombinationAndPermutationCOunt\obj\Debug\CombinationAndPermutationCOunt.csproj.AssemblyReference.cache
+C:\Users\mypc\source\repos\CombinationAndPermutationCOunt\CombinationAndPermutationCOunt\obj\Debug\CombinationAndPermutationCOunt.Form1.resources
+C:\Users\mypc\source\repos\CombinationAndPermutationCOunt\CombinationAndPermutationCOunt\obj\Debug\CombinationAndPermutationCOunt.Properties.Resources.resources
+C:\Users\mypc\source\repos\CombinationAndPermutationCOunt\CombinationAndPermutationCOunt\obj\Debug\CombinationAndPermutationCOunt.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\CombinationAndPermutationCOunt\CombinationAndPermutationCOunt\obj\Debug\CombinationAndPermutationCOunt.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\CombinationAndPermutationCOunt\CombinationAndPermutationCOunt\bin\Debug\CombinationAndPermutationCOunt.exe.config
+C:\Users\mypc\source\repos\CombinationAndPermutationCOunt\CombinationAndPermutationCOunt\bin\Debug\CombinationAndPermutationCOunt.exe
+C:\Users\mypc\source\repos\CombinationAndPermutationCOunt\CombinationAndPermutationCOunt\bin\Debug\CombinationAndPermutationCOunt.pdb
+C:\Users\mypc\source\repos\CombinationAndPermutationCOunt\CombinationAndPermutationCOunt\obj\Debug\CombinationAndPermutationCOunt.exe
+C:\Users\mypc\source\repos\CombinationAndPermutationCOunt\CombinationAndPermutationCOunt\obj\Debug\CombinationAndPermutationCOunt.pdb
