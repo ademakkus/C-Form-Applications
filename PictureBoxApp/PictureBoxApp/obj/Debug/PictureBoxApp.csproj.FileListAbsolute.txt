@@ -1,0 +1,9 @@
+C:\Users\mypc\source\repos\PictureBoxApp\PictureBoxApp\bin\Debug\PictureBoxApp.exe.config
+C:\Users\mypc\source\repos\PictureBoxApp\PictureBoxApp\bin\Debug\PictureBoxApp.exe
+C:\Users\mypc\source\repos\PictureBoxApp\PictureBoxApp\bin\Debug\PictureBoxApp.pdb
+C:\Users\mypc\source\repos\PictureBoxApp\PictureBoxApp\obj\Debug\PictureBoxApp.Form1.resources
+C:\Users\mypc\source\repos\PictureBoxApp\PictureBoxApp\obj\Debug\PictureBoxApp.Properties.Resources.resources
+C:\Users\mypc\source\repos\PictureBoxApp\PictureBoxApp\obj\Debug\PictureBoxApp.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\PictureBoxApp\PictureBoxApp\obj\Debug\PictureBoxApp.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\PictureBoxApp\PictureBoxApp\obj\Debug\PictureBoxApp.exe
+C:\Users\mypc\source\repos\PictureBoxApp\PictureBoxApp\obj\Debug\PictureBoxApp.pdb
