@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\CountWovelSounds\CountWovelSounds\bin\Debug\CountWovelSounds.exe.config
+C:\Users\mypc\source\repos\CountWovelSounds\CountWovelSounds\bin\Debug\CountWovelSounds.exe
+C:\Users\mypc\source\repos\CountWovelSounds\CountWovelSounds\bin\Debug\CountWovelSounds.pdb
+C:\Users\mypc\source\repos\CountWovelSounds\CountWovelSounds\obj\Debug\CountWovelSounds.csproj.AssemblyReference.cache
+C:\Users\mypc\source\repos\CountWovelSounds\CountWovelSounds\obj\Debug\CountWovelSounds.Form1.resources
+C:\Users\mypc\source\repos\CountWovelSounds\CountWovelSounds\obj\Debug\CountWovelSounds.Properties.Resources.resources
+C:\Users\mypc\source\repos\CountWovelSounds\CountWovelSounds\obj\Debug\CountWovelSounds.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\CountWovelSounds\CountWovelSounds\obj\Debug\CountWovelSounds.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\CountWovelSounds\CountWovelSounds\obj\Debug\CountWovelSounds.exe
+C:\Users\mypc\source\repos\CountWovelSounds\CountWovelSounds\obj\Debug\CountWovelSounds.pdb
