@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\DatabaseDesktopApp\DatabaseDesktopApp\bin\Debug\DatabaseDesktopApp.exe.config
+C:\Users\mypc\source\repos\DatabaseDesktopApp\DatabaseDesktopApp\bin\Debug\DatabaseDesktopApp.exe
+C:\Users\mypc\source\repos\DatabaseDesktopApp\DatabaseDesktopApp\bin\Debug\DatabaseDesktopApp.pdb
+C:\Users\mypc\source\repos\DatabaseDesktopApp\DatabaseDesktopApp\obj\Debug\DatabaseDesktopApp.csproj.AssemblyReference.cache
+C:\Users\mypc\source\repos\DatabaseDesktopApp\DatabaseDesktopApp\obj\Debug\DatabaseDesktopApp.Form1.resources
+C:\Users\mypc\source\repos\DatabaseDesktopApp\DatabaseDesktopApp\obj\Debug\DatabaseDesktopApp.Properties.Resources.resources
+C:\Users\mypc\source\repos\DatabaseDesktopApp\DatabaseDesktopApp\obj\Debug\DatabaseDesktopApp.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\DatabaseDesktopApp\DatabaseDesktopApp\obj\Debug\DatabaseDesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\DatabaseDesktopApp\DatabaseDesktopApp\obj\Debug\DatabaseDesktopApp.exe
+C:\Users\mypc\source\repos\DatabaseDesktopApp\DatabaseDesktopApp\obj\Debug\DatabaseDesktopApp.pdb
